@@ -19,3 +19,8 @@ FROM [dbo].[Test_Source]
 -- CR#1113_Test4
 SELECT *
 FROM [dbo].[Test_Target]
+
+
+-- CR#1114_Test1
+SELECT *
+FROM [dbo].[Test_Target]
